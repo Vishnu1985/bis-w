@@ -1567,3 +1567,12 @@ h6 {
 }
 
 .hl { font-size: 25px !important; color: #222 !important; }
+
+.facts { 
+  background: #259e99;
+  background-size: cover;
+  padding: 40px 0;
+  margin: 150px 0 0 0;
+}
+
+.facts span, .facts p { color: #fff !important; }
