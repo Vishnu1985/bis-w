@@ -1575,4 +1575,5 @@ h6 {
   margin: 150px 0 0 0;
 }
 
-.facts span, .facts p { color: #fff !important; }
+.facts span { color: #fff !important;}
+.facts p { color: #fff !important;}
